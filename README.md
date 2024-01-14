@@ -1,4 +1,4 @@
-
+npx create-next-app@latest
 
 ## PROJECTS
 
