@@ -1,13 +1,11 @@
-# Free Developer Portfolio Template by Vito Medlej
 
-This is an open-source portfolio website template for developers. Showcase your skills, projects, and experience with this customizable and easy-to-use template.
 
-## Features
+## PROJECTS
 
-- Animations
-- Responsive design
-- Customizable sections for skills, projects, and experience
-- Contact form
+- AMINAKEEEEE
+- CARD MART
+- SHELTER MELTER
+- LOL GÜMÜŞ2
 - Social media links
 
 ## Getting Started
